@@ -1,0 +1,1 @@
+{"uuid":"3e691b06-665f-4421-b791-867cc3058457","name":"andriod.base.BaseTest.setUp","children":["24b72ab9-c3ba-426c-9cea-1c0fa45e1120"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1679166696207,"stop":1679166704546}],"afters":[],"start":1679166696206,"stop":1679166704546}

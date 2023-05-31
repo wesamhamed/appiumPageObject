@@ -1,0 +1,13 @@
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/andriod/testcases/ToDoTest.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/andriod/utils/JsonReader.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/ios/screens/TaskListScreen.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/andriod/base/ScreenBase.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/andriod/base/BaseTest.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/andriod/runner/TestRunner.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/ios/screens/CreateTaskScreen.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/andriod/steps/CreateNewTaskWithData.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/ios/base/TestBase.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/ios/base/ScreenBase.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/andriod/screens/TasksListScreen.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/andriod/screens/CreateTaskScreen.java
+/home/wesamhamed/Desktop/training/appium/AppiumPageObject/src/test/java/andriod/steps/CreateNewTask.java
